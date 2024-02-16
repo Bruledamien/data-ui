@@ -5,7 +5,7 @@ import localPoint from '@vx/event/build/localPoint';
 import withTooltip from '@vx/tooltip/build/enhancers/withTooltip';
 import TooltipWithBounds, {
   withTooltipPropTypes as vxTooltipPropTypes,
-} from '@vx/tooltip/build/tooltips/TooltipWithBounds';
+} from '@vx/tooltip/build/enhancers/TooltipWithBounds';
 
 export { default as Tooltip } from '@vx/tooltip/build/tooltips/Tooltip';
 
